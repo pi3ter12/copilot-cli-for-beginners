@@ -402,6 +402,7 @@ That's it for getting started! As you become comfortable, you can explore additi
 | Command | What It Does |
 |---------|--------------|
 | `/diff` | Review the changes made in the current directory |
+| `/pr` | Operate on pull requests for the current branch |
 | `/review` | Run the code-review agent to analyze changes |
 | `/research` | Run deep research investigation using GitHub and web sources |
 | `/terminal-setup` | Enable multiline input support (shift+enter and ctrl+enter) |
