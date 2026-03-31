@@ -25,6 +25,10 @@ safe-outputs:
     labels: [automated-update, traffic-data]
     title-prefix: "[bot] "
     base-branch: main
+    fallback-as-issue: false
+    allowed-files:
+      - ".github/uvs.csv"
+      - ".github/views.csv"
 ---
 
 # Collect Weekly Repo Traffic
