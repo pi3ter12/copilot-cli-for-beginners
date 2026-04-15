@@ -363,7 +363,7 @@ copilot --allow-all -p "Review @myfile.py for issues"
 
 ## Essential Slash Commands
 
-These commands work in interactive mode. **Start with just these** - they cover 90% of daily use:
+These commands are great to learn initially as you're getting started with Copilot CLI:
 
 | Command | What It Does | When to Use |
 |---------|--------------|-------------|
