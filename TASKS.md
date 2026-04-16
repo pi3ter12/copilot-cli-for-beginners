@@ -11,8 +11,8 @@ Use this file as a simple progress checklist while working through the course.
 ## Course Chapters
 
 - [x] 00 - [Quick Start](./00-quick-start/README.md)
-- [ ] 01 - [First Steps](./01-setup-and-first-steps/README.md)
-- [ ] 02 - [Context and Conversations](./02-context-conversations/README.md)
+- [x] 01 - [First Steps](./01-setup-and-first-steps/README.md)
+- [x] 02 - [Context and Conversations](./02-context-conversations/README.md)
 - [ ] 03 - [Development Workflows](./03-development-workflows/README.md)
 - [ ] 04 - [Create Specialized AI Assistants](./04-agents-custom-instructions/README.md)
 - [ ] 05 - [Automate Repetitive Tasks](./05-skills/README.md)
