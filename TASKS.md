@@ -16,5 +16,5 @@ Use this file as a simple progress checklist while working through the course.
 - [x] 03 - [Development Workflows](./03-development-workflows/README.md)
 - [x] 04 - [Create Specialized AI Assistants](./04-agents-custom-instructions/README.md)
 - [x] 05 - [Automate Repetitive Tasks](./05-skills/README.md)
-- [ ] 06 - [Connect to GitHub, Databases & APIs](./06-mcp-servers/README.md)
+- [x] 06 - [Connect to GitHub, Databases & APIs](./06-mcp-servers/README.md)
 - [ ] 07 - [Putting It All Together](./07-putting-it-together/README.md)
