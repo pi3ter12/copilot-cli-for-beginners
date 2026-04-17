@@ -68,7 +68,7 @@ This course focuses on **GitHub Copilot CLI**, bringing AI assistance directly t
 | 01 | 👋 [First Steps](./01-setup-and-first-steps/README.md) | Live demos + three interaction modes |
 | 02 | 🔍 [Context and Conversations](./02-context-conversations/README.md) | Multi-file project analysis |
 | 03 | ⚡ [Development Workflows](./03-development-workflows/README.md) | Code review, debug, test generation |
-| 04 | 🤖 [Create Specialized AI Assistants](./04-agents-custom-instructions/README.md) | Custom agents for your workflow |
+| 04 | 🤖 [Create Specialized AI Assistants](./04-agents-custom-instructions/README.md) | Custom agents for your workflow | [x]
 | 05 | 🛠️ [Automate Repetitive Tasks](./05-skills/README.md) | Skills that load automatically |
 | 06 | 🔌 [Connect to GitHub, Databases & APIs](./06-mcp-servers/README.md) | MCP server integration |
 | 07 | 🎯 [Putting It All Together](./07-putting-it-together/README.md) | Complete feature workflows |
