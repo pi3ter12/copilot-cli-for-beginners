@@ -2,6 +2,7 @@
 name: python-reviewer
 description: Python code quality specialist for reviewing Python projects
 tools: ["read", "edit", "search"]
+model: GPT-5 mini (copilot)
 ---
 
 # Python Code Reviewer
